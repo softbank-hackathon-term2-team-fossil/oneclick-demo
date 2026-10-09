@@ -1,1 +1,1 @@
-main
+crash-after-30s
