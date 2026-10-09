@@ -1,1 +1,1 @@
-main
+crash-on-start
